@@ -1,8 +1,6 @@
 # Neon Ink for Hyper
 
-A loud, high-contrast neon theme for [Hyper](https://hyper.is), ported from the
-[Neon Vommit](https://marketplace.visualstudio.com/items?itemName=ghgofort.neon-vommit)
-VS Code theme by Galen Goforth.
+A loud, high-contrast neon theme for [Hyper](https://hyper.is).
 
 ![Neon Ink preview](https://raw.githubusercontent.com/xeno/hyper-neon-ink/main/preview.png)
 
@@ -45,16 +43,11 @@ put `'@xeno/hyper-neon-ink'` in `plugins` instead.
 | Terminal green | `#33cc33` | `lightGreen` |
 | Purple | `#BB77FF` | `lightMagenta` |
 
-The original theme's terminal foreground is `#33cc33`. Neon Ink uses `#f0f0f0`
-as the foreground because it's easier to read, and keeps `#33cc33` as `lightGreen`.
-Every bright color comes from the original palette, so a few of them repeat
+The palette's terminal green is `#33cc33`. Neon Ink uses `#f0f0f0` as the
+foreground because it's easier to read, and keeps `#33cc33` as `lightGreen`.
+Every bright color comes from the base palette, so a few of them repeat
 (`lightYellow`, `lightBlue`, `lightCyan`, `lightWhite`).
-
-## Credits
-
-Colors come from [Neon Vommit](https://marketplace.visualstudio.com/items?itemName=ghgofort.neon-vommit) by
-Galen Goforth (MIT). See [LICENSE](LICENSE).
 
 ## License
 
-MIT
+MIT © 2026 Neon Ink LLC. See [LICENSE](LICENSE).

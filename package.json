@@ -1,7 +1,7 @@
 {
   "name": "hyper-neon-ink",
   "version": "1.0.0",
-  "description": "Neon Ink: a loud neon Hyper terminal theme, ported from the Neon Vommit VS Code theme by Galen Goforth",
+  "description": "Neon Ink theme for Hyper",
   "main": "index.js",
   "files": [
     "index.js",
@@ -18,10 +18,9 @@
     "hyper-theme",
     "theme",
     "neon",
-    "neon-vommit",
     "dark"
   ],
-  "author": "Jimmy Thomas <me@jmy.me> (https://github.com/xeno)",
+  "author": "Neon Ink LLC",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -1,7 +1,7 @@
 'use strict';
 
-// Neon Ink — a Hyper theme ported from the Neon Vommit VS Code theme
-// by Galen Goforth (MIT). https://github.com/xeno/hyper-neon-ink
+// Neon Ink — a Hyper theme. https://github.com/xeno/hyper-neon-ink
+// MIT © 2026 Neon Ink LLC
 
 const palette = {
   background: '#222222',
